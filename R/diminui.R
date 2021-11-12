@@ -2,8 +2,8 @@
 #'
 #' Esta é uma função simples para diminuir dois números
 #'
-#' @param a
-#' @param b
+#' @param a Isto é número, pode ser inteiro do double
+#' @param b Um número
 #'
 #' @examples
 #' diminui(3,2)
